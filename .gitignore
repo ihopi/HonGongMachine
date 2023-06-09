@@ -76,8 +76,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-# 이게 없으면 결과값 저장이 안되니까.. 일단 저장 해 두도록 하자
-#.ipynb_checkpoints
+.ipynb_checkpoints
 
 # IPython
 profile_default/
